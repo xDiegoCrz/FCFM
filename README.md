@@ -1,4 +1,4 @@
 # FCFM7mo
 Mineria de datos
-[tarea](https://github.com/OpheliaVlzqz/MineriaDatos)
+[tarea2](https://github.com/OpheliaVlzqz/MineriaDatos)
 
