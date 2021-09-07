@@ -7,4 +7,6 @@ Mineria de datos
 [Avance1_PIA_10](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Avance1_PIA_10.ipynb)
 
 
+[Presentacion_RegresionBayesiana_10](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Presentacion_RegresionBayesiana_10.pdf)
+
 
