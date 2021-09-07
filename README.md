@@ -9,4 +9,6 @@ Mineria de datos
 
 [Presentacion_RegresionBayesiana_10](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Presentacion_RegresionBayesiana_10.pdf)
 
+[Teorema de Bayes.R](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Teorema%20de%20Bayes.R)
+
 
