@@ -12,3 +12,4 @@ Mineria de datos
 [Teorema de Bayes.R](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Teorema%20de%20Bayes.R)
 
 
+[Preguntas_RegresionB](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Preguntas_RegresionB.pdf)
