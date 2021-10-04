@@ -13,3 +13,6 @@ Mineria de datos
 
 
 [Preguntas_RegresionB](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Preguntas_RegresionB.pdf)
+
+
+[Visualización_10_Parte1](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Visualizaci%C3%B3n_10_Parte1.ipynb)
