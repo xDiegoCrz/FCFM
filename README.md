@@ -16,3 +16,5 @@ Mineria de datos
 
 
 [Visualización_10_Parte1](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Visualizaci%C3%B3n_10_Parte1.ipynb)
+
+[Visualización_10_Parte2](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/visualizacion_10_parte2.ipynb)
