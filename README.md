@@ -20,3 +20,5 @@ Mineria de datos
 [Visualización_10_Parte2](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/visualizacion_10_parte2.ipynb)
 
 [Avance2_PIA_10](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Avance2_PIA_10.ipynb)
+
+[TécnicasDeMinería_10.ipynb](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/T%C3%A9cnicasDeMiner%C3%ADa_10.ipynb)
