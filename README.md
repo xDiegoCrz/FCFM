@@ -28,3 +28,5 @@ Mineria de datos
 [Técnica_Equipo10](https://github.com/Mikemtzrey/Mineria-de-datos-1867216/blob/main/T%C3%A9cnica.ipynb)
 
 [Notebook_final](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Notebook_final_10.ipynb)
+
+[Poster_E10](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Poster_E10.pdf)
